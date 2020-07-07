@@ -1,0 +1,46 @@
+#container
+    width: 100vw
+    height: 100vh
+    background-color: hsl(270, 25, 10)
+
+    #bgtube
+        opacity: 0.1
+        position: absolute
+        top: 0
+        bottom: 0
+        width: 100%
+        height: 100%
+        overflow: hidden
+
+        video
+            min-width: 100%
+            min-height: 100%
+            width: auto
+            height: auto
+            
+            position: absolute
+            top: 50%
+            left: 50%
+            transform: translate(-50%,-50%)
+
+    #grid
+        position: absolute
+        width: 100%
+        height: 100%
+        background-image: url('assets/grid.png')
+        background-size: 20px
+        opacity: 0.1
+        box-shadow: inset 0 0 80px rgba(0,0,0,0.4)
+
+#logo-container
+    position: absolute
+    display: flex
+    flex-direction: row
+    align-items: center
+    justify-content: center
+    width: 100%
+    height: 100%
+
+    #logo
+        width: 20rem
+        height: 20rem
