@@ -61,16 +61,17 @@
   font-family: "Learning Curve", "Dancing Script", cursive !important;
 }
 #container #currently .champion.left {
-  top: 8%;
-  left: 8%;
+  top: 12%;
+  left: 12%;
 }
 #container #currently .champion.right {
-  bottom: 8%;
-  right: 8%;
+  bottom: 12%;
+  right: 12%;
 }
 #container #currently .champion svg {
   width: 100%;
   height: 100%;
+  max-height: 35vh;
 }
 
 /*# sourceMappingURL=style.css.map */
