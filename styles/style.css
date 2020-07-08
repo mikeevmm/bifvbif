@@ -55,8 +55,10 @@
   color: white;
   font-size: 26pt;
   text-align: center;
-  font-family: "Learning Curve", "Dancing Script", cursive !important;
   position: absolute;
+}
+#container #currently .champion * {
+  font-family: "Learning Curve", "Dancing Script", cursive !important;
 }
 #container #currently .champion.left {
   top: 8%;
