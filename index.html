@@ -4,9 +4,11 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <link rel="stylesheet" href="reset.css">
-   <link rel="stylesheet" href="style.css">
+   <link rel="stylesheet" href="styles/reset.css">
+   <link rel="stylesheet" href="styles/style.css">
    <link rel="shortcut icon" href="assets/favicon/favicon.ico" type="image/x-icon">
+   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+   <script src="src/main.js"></script>
    <title>Ultimate Bra Ket</title>
 </head>
 
@@ -14,35 +16,17 @@
    <div id="container">
       <div id="grid"></div>
       <div id="bgtube">
-         <video autoplay muted loop>
+         <video autoplay muted loop poster="assets/0001.png">
             <source src="assets/tube.mp4" type="video/mp4">
          </video>
       </div>
       <div id="logo-container">
          <object data="assets/logo.svg" type="image/svg+xml" id="logo">Your browser does not support SVG</object>
       </div>
-      <ul class="radial bracket finals">
-         <li class="subbracket">
-            <ul class="radial bracket semifinals">
-               <li class="subbracket">
-                  <ul class="radial bracket 2semifinals">
-                  </ul>
-               </li>
-               <li class="subbracket">
-                  <ul class="radial bracket 2semifinals">
-
-                  </ul>
-               </li>
-            </ul>
-         </li>
-         <li class="subbracket">
-            <ul class="radial bracket semifinals">
-               <ul class="radial bracket 2semifinals">
-
-               </ul>
-            </ul>
-         </li>
-      </ul>
+      <div id="currently">
+         <div class="champion left"></div>
+         <div class="champion right"></div>
+      </div>
    </div>
 </body>
 

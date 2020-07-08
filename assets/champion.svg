@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 749.99996 400"
+   height="400"
+   width="750"
+   sodipodi:docname="champion.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1">
+  <defs
+     id="defs2">
+    <rect
+       id="rect925"
+       height="91"
+       width="750"
+       y="38"
+       x="0" />
+    <linearGradient
+       id="linearGradient2293"
+       inkscape:collect="always">
+      <stop
+         id="stop2289"
+         offset="0"
+         style="stop-color:#cb00cb;stop-opacity:1" />
+      <stop
+         style="stop-color:#a700a7;stop-opacity:1"
+         offset="0.33725375"
+         id="stop2302" />
+      <stop
+         id="stop2304"
+         offset="0.51724082"
+         style="stop-color:#e000e0;stop-opacity:1" />
+      <stop
+         style="stop-color:#9d009d;stop-opacity:1;"
+         offset="0.92130178"
+         id="stop2306" />
+      <stop
+         id="stop2291"
+         offset="1"
+         style="stop-color:#620062;stop-opacity:1" />
+    </linearGradient>
+    <pattern
+       patternTransform="matrix(0.10165754,0,0,0.10165754,-0.09354432,-1.0935542)"
+       id="pattern2285"
+       xlink:href="#pattern2274"
+       inkscape:collect="always" />
+    <pattern
+       patternTransform="matrix(0.26458333,0,0,0.26458333,-71.153068,-2.9834352)"
+       id="pattern2281"
+       xlink:href="#pattern2274"
+       inkscape:collect="always" />
+    <pattern
+       id="pattern2274"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,-0.09354432,-1.0935542)"
+       height="37.849949"
+       width="37.849956"
+       patternUnits="userSpaceOnUse">
+      <g
+         id="g2264"
+         style="stroke:#000000;stroke-opacity:1"
+         transform="matrix(3.7795276,0,0,3.7795276,-265.36073,-282.16613)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path2258"
+           d="M 70.303572,84.577377 80.130951,74.75"
+           style="fill:none;stroke:#160412;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2260"
+           d="m 70.303572,74.75 9.827379,9.827377"
+           style="fill:none;stroke:#160412;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <radialGradient
+       gradientTransform="matrix(1.0584416,0,0,1.0584416,-5.96417,-6.9640246)"
+       gradientUnits="userSpaceOnUse"
+       r="14.552083"
+       fy="119.1622"
+       fx="102.05357"
+       cy="119.1622"
+       cx="102.05357"
+       id="radialGradient2295"
+       xlink:href="#linearGradient2293"
+       inkscape:collect="always" />
+    <pattern
+       id="pattern2274-1"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,-0.09354432,-1.0935542)"
+       height="37.849949"
+       width="37.849956"
+       patternUnits="userSpaceOnUse">
+      <g
+         id="g2264-6"
+         style="stroke:#000000;stroke-opacity:1"
+         transform="matrix(3.7795276,0,0,3.7795276,-265.36073,-282.16613)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path2258-5"
+           d="M 70.303572,84.577377 80.130951,74.75"
+           style="fill:none;stroke:#160412;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2260-5"
+           d="m 70.303572,74.75 9.827379,9.827377"
+           style="fill:none;stroke:#160412;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <pattern
+       patternTransform="matrix(0.10165754,0,0,0.10165754,-0.09354432,-1.093546)"
+       id="pattern2285-3"
+       xlink:href="#pattern2274-1-0"
+       inkscape:collect="always" />
+    <pattern
+       id="pattern2274-1-0"
+       patternTransform="matrix(0.26458333,0,0,0.26458333,-0.09354432,-1.0935542)"
+       height="37.849949"
+       width="37.849956"
+       patternUnits="userSpaceOnUse">
+      <g
+         id="g2264-6-3"
+         style="stroke:#000000;stroke-opacity:1"
+         transform="matrix(3.7795276,0,0,3.7795276,-265.36073,-282.16613)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path2258-5-5"
+           d="M 70.303572,84.577377 80.130951,74.75"
+           style="fill:none;stroke:#160412;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2260-5-5"
+           d="m 70.303572,74.75 9.827379,9.827377"
+           style="fill:none;stroke:#160412;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </pattern>
+    <filter
+       height="1.7411299"
+       y="-0.37056494"
+       width="1.1632131"
+       x="-0.081606537"
+       id="filter1173"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur1175"
+         stdDeviation="1.845497"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       height="1.3364028"
+       y="-0.16820139"
+       width="1.071896"
+       x="-0.035948023"
+       id="filter1143"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur1145"
+         stdDeviation="0.83768081"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       height="1.0994273"
+       y="-0.049713649"
+       width="1.0404845"
+       x="-0.020242266"
+       id="filter899"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur901"
+         stdDeviation="0.12903784"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     units="px"
+     scale-x="1"
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pagecheckerboard="false"
+     inkscape:snap-page="true"
+     showgrid="false"
+     inkscape:current-layer="svg8"
+     inkscape:document-units="mm"
+     inkscape:cy="48.434461"
+     inkscape:cx="410.44487"
+     inkscape:zoom="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#20051b"
+     id="base">
+    <inkscape:grid
+       originy="-135.12279"
+       originx="-87.293957"
+       id="grid815"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="matrix(8.9063439,0,0,8.9063439,-334.29143,-982.34105)"
+     id="g1180"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#fdf2fb;fill-opacity:1;stroke:none;stroke-width:2.54332;stroke-linecap:round;filter:url(#filter1173)"
+       id="rect1155"
+       width="43.974625"
+       height="11.952541"
+       x="127.40602"
+       y="144.19397"
+       transform="matrix(0.89970665,0,-0.41791589,0.93229492,7.987253,-7.2502689)" />
+    <rect
+       transform="matrix(1,0,-0.4645024,0.88557186,0,0)"
+       y="144.19397"
+       x="127.40602"
+       height="11.952541"
+       width="43.974625"
+       id="rect1065"
+       style="opacity:1;fill:#d81ba9;fill-opacity:1;stroke:none;stroke-width:2.54332;stroke-linecap:round;filter:url(#filter1143)" />
+    <rect
+       style="opacity:1;fill:#ef00b4;fill-opacity:1;stroke:none;stroke-width:2.31247;stroke-linecap:round"
+       id="rect911"
+       width="41.482887"
+       height="10.474783"
+       x="135.72479"
+       y="148.28365"
+       transform="matrix(1,0,-0.5,0.8660254,0,0)" />
+  </g>
+  <g
+     transform="matrix(9.1199002,0,0,9.1199002,-367.27024,-1122.7609)"
+     id="g1063"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:10.8339px;line-height:1.25;font-family:Lear;-inkscape-font-specification:Lear;letter-spacing:0px;word-spacing:0px;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:0.45141;filter:url(#filter899)"
+       x="57.577763"
+       y="134.79407"
+       id="text893"><tspan
+         class="champfirstname"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Learning Curve';-inkscape-font-specification:'Learning Curve';text-align:center;text-anchor:middle;fill:#000000"
+         id="tspan891">ssad</tspan></text>
+    <text
+       id="text1053"
+       y="134.34767"
+       x="57.324715"
+       style="font-size:10.8339px;line-height:1.25;font-family:Lear;-inkscape-font-specification:Lear;letter-spacing:0px;word-spacing:0px;opacity:0.458333;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:0.45141"
+       xml:space="preserve"><tspan
+         class="champfirstname"
+         id="tspan889"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Learning Curve';-inkscape-font-specification:'Learning Curve';text-align:center;text-anchor:middle;fill:#ffffff">ssad</tspan></text>
+  </g>
+  <g
+     style="display:inline"
+     id="g911"
+     transform="matrix(13.230682,0,0,13.230682,-537.28779,-1557.9173)">
+    <text
+       id="text905"
+       y="134.79407"
+       x="69.405121"
+       style="font-size:10.8339px;line-height:1.25;font-family:Lear;-inkscape-font-specification:Lear;letter-spacing:0px;word-spacing:0px;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:0.45141;filter:url(#filter899)"
+       xml:space="preserve"><tspan
+         id="tspan903"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Learning Curve';-inkscape-font-specification:'Learning Curve';text-align:center;text-anchor:middle;fill:#000000"
+         class="champnick">ssad</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.8339px;line-height:1.25;font-family:Lear;-inkscape-font-specification:Lear;letter-spacing:0px;word-spacing:0px;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:0.45141"
+       x="69.123413"
+       y="134.34767"
+       id="text909"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Learning Curve';-inkscape-font-specification:'Learning Curve';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan907"
+         class="champnick">ssad</tspan></text>
+  </g>
+  <g
+     style="display:inline;opacity:0.397436"
+     id="g921"
+     transform="matrix(9.1199002,0,0,9.1199002,-92.27024,-877.76085)">
+    <text
+       id="text915"
+       y="134.79407"
+       x="69.858604"
+       style="font-size:10.8339px;line-height:1.25;font-family:Lear;-inkscape-font-specification:Lear;letter-spacing:0px;word-spacing:0px;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:0.45141;filter:url(#filter899)"
+       xml:space="preserve"><tspan
+         id="tspan913"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Learning Curve';-inkscape-font-specification:'Learning Curve';text-align:center;text-anchor:middle;fill:#000000"
+         class="champlastname">ssad</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.8339px;line-height:1.25;font-family:Lear;-inkscape-font-specification:Lear;letter-spacing:0px;word-spacing:0px;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:0.45141"
+       x="69.41217"
+       y="134.34767"
+       id="text919"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Learning Curve';-inkscape-font-specification:'Learning Curve';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan917"
+         class="champlastname">ssad</tspan></text>
+  </g>
+  <text
+     style="font-size:24px;line-height:1.25;font-family:Lear;-inkscape-font-specification:Lear;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect925);"
+     id="text923"
+     xml:space="preserve" />
+</svg>
