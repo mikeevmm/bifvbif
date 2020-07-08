@@ -18,7 +18,7 @@ $(document).ready(function () {
 
     [[".left", left], [".right", right]].forEach(x => {
         let [css, object] = x;
-        $(".champion" + css).each((_, element) => {
+        $(".champion.name" + css).each((_, element) => {
             let xhr = new XMLHttpRequest;
             xhr.open('get', 'assets/champion.svg', true);
             xhr.onreadystatechange = function () {
