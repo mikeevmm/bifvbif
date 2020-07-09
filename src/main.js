@@ -13,8 +13,8 @@ class Champion {
 }
 
 $(document).ready(function () {
-    let left = new Champion("Paulo", "Phat Boy", "Gordo");
-    let right = new Champion("Xôr", "Keymaster", "Sapage");
+    let left = new Champion("Alex", "Blin(g)", "Blin");
+    let right = new Champion("Francisco", "Xico", "Gil");
 
     [[".left", left], [".right", right]].forEach(x => {
         let [css, object] = x;
