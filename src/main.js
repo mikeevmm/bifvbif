@@ -22,6 +22,8 @@ let paulo_gordo = new Champion("Paulo", "Phat Boi", "Gordo");
 let xor_sapage = new Champion("Xôr", "Keymaster", "Sapage");
 let vitaly = new Champion("Vitaly", "Vodka", "Tchepal");
 let filomena = new Champion("Filomena", "???", "");
+let benilde = new Champion("Maria", "Ninja", "Benilde");
+let carlos = new Champion("Carlos", "Wikipedia", "Fiolhais");
 
 
 function makeChampions(left, right) {
@@ -68,6 +70,6 @@ function makeBrackets() {
 }
 
 $(document).ready(function () {
-    makeChampions(alex_blin, fran_gil);
+    makeChampions(carlos, benilde);
     makeBrackets();
 });
