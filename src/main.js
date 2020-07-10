@@ -12,10 +12,19 @@ class Champion {
     }
 }
 
-$(document).ready(function () {
-    let left = new Champion("Alex", "Blin(g)", "Blin");
-    let right = new Champion("Francisco", "Xico", "Gil");
+let alex_blin = new Champion("Alex", "Blin(g)", "Blin");
+let fran_gil = new Champion("Francisco", "Xico", "Gil");
+let helena = new Champion("Helena", "V", "Alberto");
+let constanca = new Champion("Constança", "SNO±", "Providência");
+let sampaio = new Champion("Sampaio", "Laço Mortífero", "dos Aidos");
+let rui_vilao = new Champion("Rui", "Villain", "Vilão");
+let paulo_gordo = new Champion("Paulo", "Phat Boi", "Gordo");
+let xor_sapage = new Champion("Xôr", "Keymaster", "Sapage");
+let vitaly = new Champion("Vitaly", "Vodka", "Tchepal");
+let filomena = new Champion("Filomena", "???", "");
 
+
+function makeChampions(left, right) {
     [[".left", left], [".right", right]].forEach(x => {
         let [css, object] = x;
         $(".champion.name" + css).each((_, element) => {
@@ -43,4 +52,22 @@ $(document).ready(function () {
             xhr.send();
         });
     });
+}
+
+function makeBrackets() {
+    var tournament = {
+        "teams": [
+          [alex_blin.fullName, fran_gil.fullName]
+        ],
+        "results": [ 
+            [null, null]
+        ]
+    };
+
+    //TODO
+}
+
+$(document).ready(function () {
+    makeChampions(alex_blin, fran_gil);
+    makeBrackets();
 });
