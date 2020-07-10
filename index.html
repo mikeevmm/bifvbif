@@ -4,7 +4,7 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet"> 
+   <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
    <link rel="stylesheet" href="styles/reset.css">
    <link rel="stylesheet" href="styles/style.css">
    <link rel="shortcut icon" href="assets/favicon/favicon.ico" type="image/x-icon">
@@ -15,20 +15,24 @@
 
 <body>
    <div id="container">
-      <div id="grid"></div>
-      <div id="bgtube">
-         <video autoplay muted loop poster="assets/0001.png">
-            <source src="assets/tube.mp4" type="video/mp4">
-         </video>
+      <div class="background">
+         <div id="grid"></div>
+         <div id="bgtube">
+            <video autoplay muted loop poster="assets/0001.png">
+               <source src="assets/tube.mp4" type="video/mp4">
+            </video>
+         </div>
       </div>
-      <div id="logo-container">
-         <object data="assets/logo.svg" type="image/svg+xml" id="logo">Your browser does not support SVG</object>
-      </div>
-      <div id="currently">
-         <div class="champion name left"></div>
-         <div class="champion left boom-parent hide"><img src="assets/explode.gif" alt="" class="boom"></div>
-         <div class="champion name right"></div>
-         <div class="champion right boom-parent hide"><img src="assets/explode.gif" alt="" class="boom"></div>
+      <div class="hero">
+         <div id="logo-container">
+            <object data="assets/logo.svg" type="image/svg+xml" id="logo">Your browser does not support SVG</object>
+         </div>
+         <div id="currently">
+            <div class="champion name left"></div>
+            <div class="champion left boom-parent hide"><img src="assets/explode.gif" alt="" class="boom"></div>
+            <div class="champion name right"></div>
+            <div class="champion right boom-parent hide"><img src="assets/explode.gif" alt="" class="boom"></div>
+         </div>
       </div>
    </div>
 </body>
