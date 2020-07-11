@@ -165,6 +165,6 @@ function makeBrackets() {
 }
 
 $(document).ready(function () {
-    makeChampions(alex_blin, fran_gil);
-    makeBrackets();
+    makeChampions(helmut, landeck);
+    //makeBrackets();
 });
